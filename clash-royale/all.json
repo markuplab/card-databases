@@ -17,10 +17,10 @@
     "statistics": [
       {
         "hitSpeed": 5,
-        "moveSpeed": "slow",
+        "moveSpeed": "Slow",
         "deployTime": 1,
         "range": 4.5,
-        "target": "ground",
+        "target": "Ground",
         "cost": 1,
         "count": 1,
         "hitPoints": [
@@ -110,10 +110,10 @@
     "statistics": [
       {
         "hitSpeed": 1.5,
-        "moveSpeed": "medium",
+        "moveSpeed": "Medium",
         "deployTime": 1,
         "range": 5.5,
-        "target": "air & ground",
+        "target": "Air & Ground",
         "cost": 3,
         "count": 1,
         "hitPoints": [
@@ -180,6 +180,135 @@
           {
             "level": 5,
             "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "ru": "Маленький дракон",
+      "en": "Baby Dragon"
+    },
+    "flavor": {
+      "ru": "Летающий воин, наносящий урон по зоне. Маленькие драконы - вечноголодные симпатяги, мечтающие о шашлыке",
+      "en": "Flying troop that deals area damage. Baby dragons hatch cute, hungry, and ready for a barbeque."
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464973244/baby-dragon.png"
+    },
+    "arena": 0,
+    "type": "Troop",
+    "rarity": "Epic",
+    "statistics": [
+      {
+        "hitSpeed": 1.8,
+        "moveSpeed": "Fast",
+        "deployTime": 1,
+        "range": 3,
+        "target": "Air & Ground",
+        "cost": 4,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 800
+          },
+          {
+            "level": 2,
+            "value": 880
+          },
+          {
+            "level": 3,
+            "value": 968
+          },
+          {
+            "level": 4,
+            "value": 1064
+          },
+          {
+            "level": 5,
+            "value": 1168
+          },
+          {
+            "level": 6,
+            "value": 1280
+          },
+          {
+            "level": 7,
+            "value": 1408
+          },
+          {
+            "level": 8,
+            "value": 1544
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 100
+          },
+          {
+            "level": 2,
+            "value": 110
+          },
+          {
+            "level": 3,
+            "value": 121
+          },
+          {
+            "level": 4,
+            "value": 133
+          },
+          {
+            "level": 5,
+            "value": 146
+          },
+          {
+            "level": 6,
+            "value": 160
+          },
+          {
+            "level": 7,
+            "value": 176
+          },
+          {
+            "level": 8,
+            "value": 193
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 55
+          },
+          {
+            "level": 2,
+            "value": 61
+          },
+          {
+            "level": 3,
+            "value": 67
+          },
+          {
+            "level": 4,
+            "value": 73
+          },
+          {
+            "level": 5,
+            "value": 81
+          },
+          {
+            "level": 6,
+            "value": 88
+          },
+          {
+            "level": 7,
+            "value": 97
+          },
+          {
+            "level": 8,
+            "value": 107
           }
         ]
       }
