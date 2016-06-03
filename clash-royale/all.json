@@ -187,6 +187,99 @@
   },
   {
     "name": {
+      "ru": "Принцесса",
+      "en": "Princess"
+    },
+    "flavor": {
+      "ru": "",
+      "en": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire."
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464972867/ice-mage.png"
+    },
+    "arena": 7,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 3,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 9,
+        "target": "Air & Ground",
+        "cost": 3,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 216
+          },
+          {
+            "level": 2,
+            "value": 237
+          },
+          {
+            "level": 3,
+            "value": 261
+          },
+          {
+            "level": 4,
+            "value": 287
+          },
+          {
+            "level": 5,
+            "value": 315
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 140
+          },
+          {
+            "level": 2,
+            "value": 154
+          },
+          {
+            "level": 3,
+            "value": 169
+          },
+          {
+            "level": 4,
+            "value": 186
+          },
+          {
+            "level": 5,
+            "value": 204
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 46
+          },
+          {
+            "level": 2,
+            "value": 51
+          },
+          {
+            "level": 3,
+            "value": 56
+          },
+          {
+            "level": 4,
+            "value": 62
+          },
+          {
+            "level": 5,
+            "value": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
       "ru": "Маленький дракон",
       "en": "Baby Dragon"
     },
