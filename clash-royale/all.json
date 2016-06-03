@@ -94,6 +94,99 @@
   },
   {
     "name": {
+      "ru": "Адская гончая",
+      "en": "Lava Hound"
+    },
+    "flavor": {
+      "ru": "Адская гончая - величественное летающее создание, атакующее здания. Адские щенки не такие величественные, зато очень злые, и атакуют все подряд.",
+      "en": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.​"
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464974560/lava-hound.png"
+    },
+    "arena": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 1.3,
+        "moveSpeed": "Slow",
+        "deployTime": 1,
+        "range": 2,
+        "target": "Buildings",
+        "cost": 7,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 3000
+          },
+          {
+            "level": 2,
+            "value": 3300
+          },
+          {
+            "level": 3,
+            "value": 3630
+          },
+          {
+            "level": 4,
+            "value": 3990
+          },
+          {
+            "level": 5,
+            "value": 4380
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 35
+          },
+          {
+            "level": 2,
+            "value": 38
+          },
+          {
+            "level": 3,
+            "value": 42
+          },
+          {
+            "level": 4,
+            "value": 46
+          },
+          {
+            "level": 5,
+            "value": 51
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 26
+          },
+          {
+            "level": 2,
+            "value": 29
+          },
+          {
+            "level": 3,
+            "value": 32
+          },
+          {
+            "level": 4,
+            "value": 35
+          },
+          {
+            "level": 5,
+            "value": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
       "ru": "Ледянной маг",
       "en": "Ice Wizard"
     },
