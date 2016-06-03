@@ -13,7 +13,7 @@
     },
     "arena": 6,
     "type": "Troop",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
     "statistics": [
       {
         "hitSpeed": 5,
@@ -22,7 +22,7 @@
         "range": 4.5,
         "target": "ground",
         "cost": 1,
-        "count: 1,
+        "count": 1,
         "hitPoints": [
           {
             "level": 1,
