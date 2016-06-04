@@ -370,5 +370,322 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Fire Spirits",
+        "ru": "Огненные духи"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire."
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465021265/fire-spirits.png"
+    },
+    "type": "Troops",
+    "rarity": "Common",
+    "statistics": {
+        "moveSpeed": "Very Fast",
+        "deployTime": 1,
+        "range": 2,
+        "target": "Air & Ground",
+        "cost": 2,
+        "count": 3,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 43
+            },
+            {
+                "level": 2,
+                "value": 47
+            },
+            {
+                "level": 3,
+                "value": 52
+            },
+            {
+                "level": 4,
+                "value": 57
+            },
+            {
+                "level": 5,
+                "value": 62
+            },
+            {
+                "level": 6,
+                "value": 68
+            },
+            {
+                "level": 7,
+                "value": 75
+            },
+            {
+                "level": 8,
+                "value": 82
+            },
+            {
+                "level": 9,
+                "value": 91
+            },
+            {
+                "level": 10,
+                "value": 100
+            },
+            {
+                "level": 11,
+                "value": 110
+            },
+            {
+                "level": 12,
+                "value": 120
+            },
+            {
+                "level": 13,
+                "value": 132
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 80
+            },
+            {
+                "level": 2,
+                "value": 88
+            },
+            {
+                "level": 3,
+                "value": 96
+            },
+            {
+                "level": 4,
+                "value": 106
+            },
+            {
+                "level": 5,
+                "value": 116
+            },
+            {
+                "level": 6,
+                "value": 128
+            },
+            {
+                "level": 7,
+                "value": 140
+            },
+            {
+                "level": 8,
+                "value": 154
+            },
+            {
+                "level": 9,
+                "value": 169
+            },
+            {
+                "level": 10,
+                "value": 186
+            },
+            {
+                "level": 11,
+                "value": 204
+            },
+            {
+                "level": 12,
+                "value": 224
+            },
+            {
+                "level": 13,
+                "value": 247
+            }
+        ]
+    }
+  },
+  {
+    "name": {
+        "en": "Barbarians",
+        "ru": "Варвары"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "&quot;A horde of swordsmen with mean mustaches and even meaner tempers.&quot;"
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465021680/barbarians.png"
+    },
+    "type": "Troop",
+    "rarity": "Common",
+    "statistics": {
+        "hitSpeed": 1.5,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Ground",
+        "cost": 5,
+        "count": 4,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 300
+            },
+            {
+                "level": 2,
+                "value": 330
+            },
+            {
+                "level": 3,
+                "value": 363
+            },
+            {
+                "level": 4,
+                "value": 399
+            },
+            {
+                "level": 5,
+                "value": 438
+            },
+            {
+                "level": 6,
+                "value": 480
+            },
+            {
+                "level": 7,
+                "value": 528
+            },
+            {
+                "level": 8,
+                "value": 579
+            },
+            {
+                "level": 9,
+                "value": 636
+            },
+            {
+                "level": 10,
+                "value": 699
+            },
+            {
+                "level": 11,
+                "value": 768
+            },
+            {
+                "level": 12,
+                "value": 843
+            },
+            {
+                "level": 13,
+                "value": 927
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 75
+            },
+            {
+                "level": 2,
+                "value": 82
+            },
+            {
+                "level": 3,
+                "value": 90
+            },
+            {
+                "level": 4,
+                "value": 99
+            },
+            {
+                "level": 5,
+                "value": 109
+            },
+            {
+                "level": 6,
+                "value": 120
+            },
+            {
+                "level": 7,
+                "value": 132
+            },
+            {
+                "level": 8,
+                "value": 144
+            },
+            {
+                "level": 9,
+                "value": 159
+            },
+            {
+                "level": 10,
+                "value": 174
+            },
+            {
+                "level": 11,
+                "value": 192
+            },
+            {
+                "level": 12,
+                "value": 210
+            },
+            {
+                "level": 13,
+                "value": 231
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 50
+            },
+            {
+                "level": 2,
+                "value": 54
+            },
+            {
+                "level": 3,
+                "value": 60
+            },
+            {
+                "level": 4,
+                "value": 66
+            },
+            {
+                "level": 5,
+                "value": 72
+            },
+            {
+                "level": 6,
+                "value": 80
+            },
+            {
+                "level": 7,
+                "value": 88
+            },
+            {
+                "level": 8,
+                "value": 96
+            },
+            {
+                "level": 9,
+                "value": 106
+            },
+            {
+                "level": 10,
+                "value": 116
+            },
+            {
+                "level": 11,
+                "value": 128
+            },
+            {
+                "level": 12,
+                "value": 140
+            },
+            {
+                "level": 13,
+                "value": 154
+            }
+        ]
+    }
   }
 ]
