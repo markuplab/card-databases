@@ -528,5 +528,62 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Lightning",
+      "ru": "Молния"
+    },
+    "flavor": {
+      "en": "Bolts of lightning hit up to 3 enemy troops or buildings with the most hitpoints in the target area. Reduced damage to Crown Towers.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465028754/Lightning.png"
+    },
+    "arena": 1,
+    "type": "Spell",
+    "rarity": "Epic",
+    "statistics": {
+      "cost": 6,
+      "duration": 1.5,
+      "radius": 3.5,
+      "count": 3,
+      "target": "Air & Ground",
+      "damage": [
+        {
+          "level": 1,
+          "value": 650
+        },
+        {
+          "level": 2,
+          "value": 715
+        },
+        {
+          "level": 3,
+          "value": 786
+        },
+        {
+          "level": 4,
+          "value": 864
+        },
+        {
+          "level": 5,
+          "value": 949
+        },
+        {
+          "level": 6,
+          "value": 1040
+        },
+        {
+          "level": 7,
+          "value": 1144
+        },
+        {
+          "level": 8,
+          "value": 1254
+        }
+      ]
+    }
   }
 ]
