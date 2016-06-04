@@ -1,1 +1,467 @@
-
+[
+    {
+    "name": {
+      "ru": "Спарки",
+      "en": "Sparky"
+    },
+    "flavor": {
+      "ru": "",
+      "en": "Sparky has a heavy-handed approach to life: Obliterate everything in sight."
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464970732/sparky.png"
+    },
+    "arena": 6,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 5,
+        "moveSpeed": "Slow",
+        "deployTime": 1,
+        "range": 4.5,
+        "target": "Ground",
+        "cost": 6,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 1200
+          },
+          {
+            "level": 2,
+            "value": 1320
+          },
+          {
+            "level": 3,
+            "value": 1452
+          },
+          {
+            "level": 4,
+            "value": 1596
+          },
+          {
+            "level": 5,
+            "value": 1752
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 1300
+          },
+          {
+            "level": 2,
+            "value": 1430
+          },
+          {
+            "level": 3,
+            "value": 1573
+          },
+          {
+            "level": 4,
+            "value": 1729
+          },
+          {
+            "level": 5,
+            "value": 1898
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 260
+          },
+          {
+            "level": 2,
+            "value": 286
+          },
+          {
+            "level": 3,
+            "value": 314
+          },
+          {
+            "level": 4,
+            "value": 345
+          },
+          {
+            "level": 5,
+            "value": 379
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "ru": "Шахтер",
+      "en": "Miner"
+    },
+    "flavor": {
+      "ru": "Шахтер может перемещаться под землей и появиться где угодно на Арене. Это не магия, это лопата.",
+      "en": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel."
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464975266/miner.png"
+    },
+    "arena": 6,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 1.2,
+        "moveSpeed": "Fast",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Ground",
+        "cost": 3,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 1060
+          },
+          {
+            "level": 2,
+            "value": 1166
+          },
+          {
+            "level": 3,
+            "value": 1282
+          },
+          {
+            "level": 4,
+            "value": 1409
+          },
+          {
+            "level": 5,
+            "value": 1547
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 160
+          },
+          {
+            "level": 2,
+            "value": 176
+          },
+          {
+            "level": 3,
+            "value": 193
+          },
+          {
+            "level": 4,
+            "value": 212
+          },
+          {
+            "level": 5,
+            "value": 233
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 133
+          },
+          {
+            "level": 2,
+            "value": 146
+          },
+          {
+            "level": 3,
+            "value": 160
+          },
+          {
+            "level": 4,
+            "value": 176
+          },
+          {
+            "level": 5,
+            "value": 194
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "ru": "Адская гончая",
+      "en": "Lava Hound"
+    },
+    "flavor": {
+      "ru": "Адская гончая - величественное летающее создание, атакующее здания. Адские щенки не такие величественные, зато очень злые, и атакуют все подряд.",
+      "en": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.​"
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464974560/lava-hound.png"
+    },
+    "arena": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 1.3,
+        "moveSpeed": "Slow",
+        "deployTime": 1,
+        "range": 2,
+        "target": "Buildings",
+        "cost": 7,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 3000
+          },
+          {
+            "level": 2,
+            "value": 3300
+          },
+          {
+            "level": 3,
+            "value": 3630
+          },
+          {
+            "level": 4,
+            "value": 3990
+          },
+          {
+            "level": 5,
+            "value": 4380
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 35
+          },
+          {
+            "level": 2,
+            "value": 38
+          },
+          {
+            "level": 3,
+            "value": 42
+          },
+          {
+            "level": 4,
+            "value": 46
+          },
+          {
+            "level": 5,
+            "value": 51
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 26
+          },
+          {
+            "level": 2,
+            "value": 29
+          },
+          {
+            "level": 3,
+            "value": 32
+          },
+          {
+            "level": 4,
+            "value": 35
+          },
+          {
+            "level": 5,
+            "value": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "ru": "Ледянной маг",
+      "en": "Ice Wizard"
+    },
+    "flavor": {
+      "ru": "Аж мурашки по коже! Стреляет во врагов кусочками льда, замедляя скорость передвижения и атаки. Пусть он и ледяной, но его усы слишком горячи для TV.",
+      "en": "This chill caster throws Ice Shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV."
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464972867/ice-mage.png"
+    },
+    "arena": 5,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 1.5,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 5.5,
+        "target": "Air & Ground",
+        "cost": 3,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 700
+          },
+          {
+            "level": 2,
+            "value": 770
+          },
+          {
+            "level": 3,
+            "value": 847
+          },
+          {
+            "level": 4,
+            "value": 931
+          },
+          {
+            "level": 5,
+            "value": 1022
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 63
+          },
+          {
+            "level": 2,
+            "value": 69
+          },
+          {
+            "level": 3,
+            "value": 76
+          },
+          {
+            "level": 4,
+            "value": 83
+          },
+          {
+            "level": 5,
+            "value": 91
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 42
+          },
+          {
+            "level": 2,
+            "value": 46
+          },
+          {
+            "level": 3,
+            "value": 50
+          },
+          {
+            "level": 4,
+            "value": 55
+          },
+          {
+            "level": 5,
+            "value": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": {
+      "ru": "Принцесса",
+      "en": "Princess"
+    },
+    "flavor": {
+      "ru": "",
+      "en": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire."
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1464972867/ice-mage.png"
+    },
+    "arena": 7,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "statistics": [
+      {
+        "hitSpeed": 3,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 9,
+        "target": "Air & Ground",
+        "cost": 3,
+        "count": 1,
+        "hitPoints": [
+          {
+            "level": 1,
+            "value": 216
+          },
+          {
+            "level": 2,
+            "value": 237
+          },
+          {
+            "level": 3,
+            "value": 261
+          },
+          {
+            "level": 4,
+            "value": 287
+          },
+          {
+            "level": 5,
+            "value": 315
+          }
+        ],
+        "damage": [
+          {
+            "level": 1,
+            "value": 140
+          },
+          {
+            "level": 2,
+            "value": 154
+          },
+          {
+            "level": 3,
+            "value": 169
+          },
+          {
+            "level": 4,
+            "value": 186
+          },
+          {
+            "level": 5,
+            "value": 204
+          }
+        ],
+        "damagePerSecond": [
+          {
+            "level": 1,
+            "value": 46
+          },
+          {
+            "level": 2,
+            "value": 51
+          },
+          {
+            "level": 3,
+            "value": 56
+          },
+          {
+            "level": 4,
+            "value": 62
+          },
+          {
+            "level": 5,
+            "value": 68
+          }
+        ]
+      }
+    ]
+  }
+]
