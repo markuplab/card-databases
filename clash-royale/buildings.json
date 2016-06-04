@@ -342,5 +342,96 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "X-Bow",
+      "ru": "Арбалет"
+    },
+    "flavor": {
+      "en": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the arena...",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465031705/x-bow.png"
+    },
+    "arena": 3,
+    "type": "Building",
+    "rarity": "Epic",
+    "statistics": {
+      "hitSpeed": 0.3,
+      "target": "Ground",
+      "deploy": 5,
+      "lifetime": 40,
+      "cost": 6,
+      "range": 11.5,
+      "hitpoints": [
+        {
+          "level": 1,
+          "value": 850
+        },
+        {
+          "level": 2,
+          "value": 935
+        },
+        {
+          "level": 3,
+          "value": 1028
+        },
+        {
+          "level": 4,
+          "value": 1130
+        },
+        {
+          "level": 5,
+          "value": 1241
+        },
+        {
+          "level": 6,
+          "value": 1360
+        },
+        {
+          "level": 7,
+          "value": 1496
+        },
+        {
+          "level": 8,
+          "value": 1640
+        },
+      "demage": [
+        {
+          "level": 1,
+          "value": 20
+        },
+        {
+          "level": 2,
+          "value": 22
+        },
+        {
+          "level": 3,
+          "value": 24
+        },
+        {
+          "level": 4,
+          "value": 26
+        },
+        {
+          "level": 5,
+          "value": 29
+        },
+        {
+          "level": 6,
+          "value": 32
+        },
+        {
+          "level": 7,
+          "value": 35
+        },
+        {
+          "level": 8,
+          "value": 38
+        }
+      ]
+    }
   }
 ]
