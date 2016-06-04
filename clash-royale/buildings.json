@@ -273,5 +273,74 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Barbarian Hut",
+      "ru": "Хижина Варвара"
+    },
+    "flavor": {
+      "en": "Troop building that periodically deploys Barbarians to fight the enemy. Time to make the Barbarians.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465030937/barbarian-hut.png"
+    },
+    "arena": 3,
+    "type": "Building",
+    "rarity": "Rare",
+    "statistics": {
+      "productionSpeed": 14,
+      "target": "Ground",
+      "deploy": 1,
+      "lifetime": 60,
+      "cost": 7,
+      "hitpoints": [
+        {
+          "level": 1,
+          "value": 1100
+        },
+        {
+          "level": 2,
+          "value": 1210
+        },
+        {
+          "level": 3,
+          "value": 1331
+        },
+        {
+          "level": 4,
+          "value": 1463
+        },
+        {
+          "level": 5,
+          "value": 1606
+        },
+        {
+          "level": 6,
+          "value": 1760
+        },
+        {
+          "level": 7,
+          "value": 1936
+        },
+        {
+          "level": 8,
+          "value": 2123
+        },
+        {
+          "level": 9,
+          "value": 2332
+        },
+        {
+          "level": 10,
+          "value": 2563
+        },
+        {
+          "level": 11,
+          "value": 2816
+        }
+      ]
+    }
   }
 ]
