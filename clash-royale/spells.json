@@ -342,5 +342,60 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Freeze",
+      "ru": "Заморозка"
+    },
+    "flavor": {
+      "en": "Freezes troops and buildings, making them unable to move or attack. Everybody chill.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465028051/freeze.png"
+    },
+    "arena": 4,
+    "type": "Spell",
+    "rarity": "Epic",
+    "statistics": {
+      "cost": 4,
+      "radius": 3,
+      "target": "Air & Ground",
+      "duration": [
+        {
+          "level": 1,
+          "value": 4
+        },
+        {
+          "level": 2,
+          "value": 4.3
+        },
+        {
+          "level": 3,
+          "value": 4.6
+        },
+        {
+          "level": 4,
+          "value": 4.9
+        },
+        {
+          "level": 5,
+          "value": 5.2
+        },
+        {
+          "level": 6,
+          "value": 5.5
+        },
+        {
+          "level": 7,
+          "value": 5.8
+        },
+        {
+          "level": 8,
+          "value": 6.1
+        }
+      ]
+    }
   }
 ]
