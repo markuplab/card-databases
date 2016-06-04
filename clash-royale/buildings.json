@@ -204,5 +204,74 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Goblin Hut",
+      "ru": "Хижина Гоблина"
+    },
+    "flavor": {
+      "en": "Building that spawns Spear Goblins. But don't look inside. You don't want to see how they are made.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465030632/goblin-hut.png"
+    },
+    "arena": 1,
+    "type": "Building",
+    "rarity": "Rare",
+    "statistics": {
+      "productionSpeed": 4.9,
+      "target": "Air & Ground",
+      "deploy": 1,
+      "lifetime": 60,
+      "cost": 5,
+      "hitpoints": [
+        {
+          "level": 1,
+          "value": 700
+        },
+        {
+          "level": 2,
+          "value": 770
+        },
+        {
+          "level": 3,
+          "value": 847
+        },
+        {
+          "level": 4,
+          "value": 931
+        },
+        {
+          "level": 5,
+          "value": 1022
+        },
+        {
+          "level": 6,
+          "value": 1120
+        },
+        {
+          "level": 7,
+          "value": 1232
+        },
+        {
+          "level": 8,
+          "value": 1351
+        },
+        {
+          "level": 9,
+          "value": 1484
+        },
+        {
+          "level": 10,
+          "value": 1631
+        },
+        {
+          "level": 11,
+          "value": 1792
+        }
+      ]
+    }
   }
 ]
