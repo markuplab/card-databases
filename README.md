@@ -1,6 +1,6 @@
-JSON Databases of Clash Royale / Hearthstone / Magic The Gathering / PokemonTCG
+#### CCG & TCG Cards Databases
 
-- [ ] Clash Royale
+- [x] Clash Royale
 - [ ] Hearthstone
 - [ ] PockemonTCG
 - [ ] Magic The Gathering
