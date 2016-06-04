@@ -96,5 +96,61 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Poison",
+      "ru": "Яд"
+    },
+    "flavor": {
+      "en": "Covers the target area in a sticky toxin, damaging and slowing down troops and buildings. Yet somehow leaves the grass green and healthy. Go figure!",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465027145/poison.png"
+    },
+    "arena": 5,
+    "type": "Spell",
+    "rarity": "Epic",
+    "statistics": {
+      "cost": 4,
+      "radius": 3.5,
+      "target": "Air & Ground",
+      "duration": 10,
+      "damagePerSecond": [
+        {
+          "level": 1,
+          "value": 42
+        },
+        {
+          "level": 2,
+          "value": 46
+        },
+        {
+          "level": 3,
+          "value": 50
+        },
+        {
+          "level": 4,
+          "value": 55
+        },
+        {
+          "level": 5,
+          "value": 61
+        },
+        {
+          "level": 6,
+          "value": 67
+        },
+        {
+          "level": 7,
+          "value": 73
+        },
+        {
+          "level": 8,
+          "value": 81
+        }
+      ]
+    }
   }
 ]
