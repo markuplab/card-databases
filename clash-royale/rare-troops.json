@@ -484,5 +484,167 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Three Musketeers",
+        "ru": "Три Мушкетера"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!"
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465017761/three-musketeers.png"
+    },
+    "type": "Troop",
+    "rarity": "Rare",
+    "statistics": {
+        "hitSpeed": 1.1,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 6,
+        "target": "Air & Ground",
+        "cost": 9,
+        "count": 3,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 340
+            },
+            {
+                "level": 2,
+                "value": 374
+            },
+            {
+                "level": 3,
+                "value": 411
+            },
+            {
+                "level": 4,
+                "value": 452
+            },
+            {
+                "level": 5,
+                "value": 496
+            },
+            {
+                "level": 6,
+                "value": 544
+            },
+            {
+                "level": 7,
+                "value": 598
+            },
+            {
+                "level": 8,
+                "value": 656
+            },
+            {
+                "level": 9,
+                "value": 720
+            },
+            {
+                "level": 10,
+                "value": 792
+            },
+            {
+                "level": 11,
+                "value": 870
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 100
+            },
+            {
+                "level": 2,
+                "value": 110
+            },
+            {
+                "level": 3,
+                "value": 121
+            },
+            {
+                "level": 4,
+                "value": 133
+            },
+            {
+                "level": 5,
+                "value": 146
+            },
+            {
+                "level": 6,
+                "value": 160
+            },
+            {
+                "level": 7,
+                "value": 176
+            },
+            {
+                "level": 8,
+                "value": 193
+            },
+            {
+                "level": 9,
+                "value": 212
+            },
+            {
+                "level": 10,
+                "value": 233
+            },
+            {
+                "level": 11,
+                "value": 256
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 90
+            },
+            {
+                "level": 2,
+                "value": 100
+            },
+            {
+                "level": 3,
+                "value": 110
+            },
+            {
+                "level": 4,
+                "value": 120
+            },
+            {
+                "level": 5,
+                "value": 132
+            },
+            {
+                "level": 6,
+                "value": 145
+            },
+            {
+                "level": 7,
+                "value": 160
+            },
+            {
+                "level": 8,
+                "value": 175
+            },
+            {
+                "level": 9,
+                "value": 192
+            },
+            {
+                "level": 10,
+                "value": 211
+            },
+            {
+                "level": 11,
+                "value": 232
+            }
+        ]
+    }
   }
 ]
