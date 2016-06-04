@@ -397,8 +397,9 @@
         {
           "level": 8,
           "value": 1640
-        },
-      "demage": [
+        }
+      ],
+      "damage": [
         {
           "level": 1,
           "value": 20
