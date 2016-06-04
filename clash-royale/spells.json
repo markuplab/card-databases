@@ -453,5 +453,80 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Arrows",
+      "ru": "Стрелы"
+    },
+    "flavor": {
+      "en": "Arrows pepper a large area damaging everyone hit. Reduced damage to crown towers.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465028554/arrows.png"
+    },
+    "arena": 0,
+    "type": "Spell",
+    "rarity": "Common",
+    "statistics": {
+      "cost": 3,
+      "radius": 4,
+      "target": "Air & Ground",
+      "damage": [
+        {
+          "level": 1,
+          "value": 115
+        },
+        {
+          "level": 2,
+          "value": 126
+        },
+        {
+          "level": 3,
+          "value": 139
+        },
+        {
+          "level": 4,
+          "value": 152
+        },
+        {
+          "level": 5,
+          "value": 168
+        },
+        {
+          "level": 6,
+          "value": 184
+        },
+        {
+          "level": 7,
+          "value": 202
+        },
+        {
+          "level": 8,
+          "value": 221
+        },
+        {
+          "level": 9,
+          "value": 243
+        },
+        {
+          "level": 10,
+          "value": 268
+        },
+        {
+          "level": 11,
+          "value": 295
+        },
+        {
+          "level": 12,
+          "value": 323
+        },
+        {
+          "level": 13,
+          "value": 355
+        }
+      ]
+    }
   }
 ]
