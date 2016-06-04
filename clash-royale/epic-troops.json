@@ -514,5 +514,131 @@
         ]
       }
     ]
+  },
+  {
+    "name": {
+        "en": "Golem",
+        "ru": "Голем"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!"
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465015033/218_bkhlen.png"
+    },
+    "type": "Troop",
+    "rarity": "Epic",
+    "statistics": {
+        "hitSpeed": 2.5,
+        "moveSpeed": "Slow",
+        "deployTime": 3,
+        "range": 0,
+        "target": "Buildings",
+        "cost": 8,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 3150
+            },
+            {
+                "level": 2,
+                "value": 3465
+            },
+            {
+                "level": 3,
+                "value": 3811
+            },
+            {
+                "level": 4,
+                "value": 4189
+            },
+            {
+                "level": 5,
+                "value": 4599
+            },
+            {
+                "level": 6,
+                "value": 5040
+            },
+            {
+                "level": 7,
+                "value": 5544
+            },
+            {
+                "level": 8,
+                "value": 6079
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 186
+            },
+            {
+                "level": 2,
+                "value": 204
+            },
+            {
+                "level": 3,
+                "value": 225
+            },
+            {
+                "level": 4,
+                "value": 246
+            },
+            {
+                "level": 5,
+                "value": 270
+            },
+            {
+                "level": 6,
+                "value": 297
+            },
+            {
+                "level": 7,
+                "value": 327
+            },
+            {
+                "level": 8,
+                "value": 358
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 74
+            },
+            {
+                "level": 2,
+                "value": 81
+            },
+            {
+                "level": 3,
+                "value": 90
+            },
+            {
+                "level": 4,
+                "value": 98
+            },
+            {
+                "level": 5,
+                "value": 108
+            },
+            {
+                "level": 6,
+                "value": 118
+            },
+            {
+                "level": 7,
+                "value": 130
+            },
+            {
+                "level": 8,
+                "value": 143
+            }
+        ]
+    }
   }
 ]
