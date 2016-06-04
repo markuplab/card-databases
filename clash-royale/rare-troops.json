@@ -17,7 +17,7 @@
         "hitSpeed": 1.8,
         "moveSpeed": "Fast",
         "deployTime": 1,
-        "range": 0",
+        "range": 0,
         "target": "Ground",
         "cost": 4,
         "count": 1,
