@@ -687,5 +687,191 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Knight",
+        "ru": "Рыцарь"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "A tough melee fighter. The Barbarian&apos;s handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone."
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465022004/Knight.png"
+    },
+    "type": "Troop",
+    "rarity": "Common",
+    "statistics": {
+        "hitSpeed": 1.1,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Ground",
+        "cost": 3,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 660
+            },
+            {
+                "level": 2,
+                "value": 726
+            },
+            {
+                "level": 3,
+                "value": 798
+            },
+            {
+                "level": 4,
+                "value": 877
+            },
+            {
+                "level": 5,
+                "value": 963
+            },
+            {
+                "level": 6,
+                "value": 1056
+            },
+            {
+                "level": 7,
+                "value": 1161
+            },
+            {
+                "level": 8,
+                "value": 1273
+            },
+            {
+                "level": 9,
+                "value": 1399
+            },
+            {
+                "level": 10,
+                "value": 1537
+            },
+            {
+                "level": 11,
+                "value": 1689
+            },
+            {
+                "level": 12,
+                "value": 1854
+            },
+            {
+                "level": 13,
+                "value": 2039
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 75
+            },
+            {
+                "level": 2,
+                "value": 82
+            },
+            {
+                "level": 3,
+                "value": 90
+            },
+            {
+                "level": 4,
+                "value": 99
+            },
+            {
+                "level": 5,
+                "value": 109
+            },
+            {
+                "level": 6,
+                "value": 120
+            },
+            {
+                "level": 7,
+                "value": 132
+            },
+            {
+                "level": 8,
+                "value": 144
+            },
+            {
+                "level": 9,
+                "value": 159
+            },
+            {
+                "level": 10,
+                "value": 174
+            },
+            {
+                "level": 11,
+                "value": 192
+            },
+            {
+                "level": 12,
+                "value": 210
+            },
+            {
+                "level": 13,
+                "value": 231
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 68
+            },
+            {
+                "level": 2,
+                "value": 74
+            },
+            {
+                "level": 3,
+                "value": 81
+            },
+            {
+                "level": 4,
+                "value": 90
+            },
+            {
+                "level": 5,
+                "value": 99
+            },
+            {
+                "level": 6,
+                "value": 109
+            },
+            {
+                "level": 7,
+                "value": 120
+            },
+            {
+                "level": 8,
+                "value": 130
+            },
+            {
+                "level": 9,
+                "value": 144
+            },
+            {
+                "level": 10,
+                "value": 158
+            },
+            {
+                "level": 11,
+                "value": 174
+            },
+            {
+                "level": 12,
+                "value": 190
+            },
+            {
+                "level": 13,
+                "value": 210
+            }
+        ]
+    }
   }
 ]
