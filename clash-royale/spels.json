@@ -1,0 +1,100 @@
+[
+  {
+    "name": {
+      "en": "Mirror"
+      "ru: "Зеркало"
+    },
+    "flavor": {
+      "en": "Mirrors your last card played for +1 Elixir",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465026232/mirror.png"
+    },
+    "arena": 5,
+    "type": "Spell",
+    "rarity": "Epic",
+    "statistics": {
+      cost: 0,
+      effect: {
+        "en": "Cost of previous card played + 1",
+        "ru": ""
+      }
+    }
+  },
+{
+    "name": {
+      "en": "Zap"
+      "ru: "Разряд"
+    },
+    "flavor": {
+      "en": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465026448/zap.png"
+    },
+    "arena": 5,
+    "type": "Spell",
+    "rarity": "Common",
+    "statistics": {
+      "cost": 2,
+      "radius": 2.5,
+      "target": "Air & Ground",
+      "damage": [
+        {
+          "level": 1
+          "value: 80
+        },
+        {
+          "level": 2
+          "value: 88
+        },
+        {
+          "level": 3
+          "value: 96
+        },
+        {
+          "level": 4
+          "value: 106
+        },
+        {
+          "level": 5
+          "value: 116
+        },
+        {
+          "level": 6
+          "value: 128
+        },
+        {
+          "level": 7
+          "value: 140
+        },
+        {
+          "level": 8
+          "value: 154
+        },
+        {
+          "level": 9
+          "value: 169
+        },
+        {
+          "level": 10
+          "value: 186
+        },
+        {
+          "level": 11
+          "value: 204
+        },
+        {
+          "level": 12
+          "value: 224
+        },
+        {
+          "level": 13
+          "value: 247
+        }
+      ]
+    }
+  }
+]
