@@ -160,5 +160,167 @@
             }
         ]
     }
-}
+},
+  {
+    "name": {
+        "en": "Hog Rider",
+        "ru": "Всадник на кабане"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of "Hog Riderrrrr"; all the way through the arena doors."
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465016879/hog-rider.png"
+    },
+    "type": "Troop",
+    "rarity": "Rare",
+    "statistics": {
+        "hitSpeed": 1.5,
+        "moveSpeed": "Very Fast",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Buildings",
+        "cost": 4,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 800
+            },
+            {
+                "level": 2,
+                "value": 880
+            },
+            {
+                "level": 3,
+                "value": 968
+            },
+            {
+                "level": 4,
+                "value": 1064
+            },
+            {
+                "level": 5,
+                "value": 1168
+            },
+            {
+                "level": 6,
+                "value": 1280
+            },
+            {
+                "level": 7,
+                "value": 1408
+            },
+            {
+                "level": 8,
+                "value": 1544
+            },
+            {
+                "level": 9,
+                "value": 1696
+            },
+            {
+                "level": 10,
+                "value": 1864
+            },
+            {
+                "level": 11,
+                "value": 2048
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 160
+            },
+            {
+                "level": 2,
+                "value": 176
+            },
+            {
+                "level": 3,
+                "value": 193
+            },
+            {
+                "level": 4,
+                "value": 212
+            },
+            {
+                "level": 5,
+                "value": 233
+            },
+            {
+                "level": 6,
+                "value": 256
+            },
+            {
+                "level": 7,
+                "value": 281
+            },
+            {
+                "level": 8,
+                "value": 308
+            },
+            {
+                "level": 9,
+                "value": 339
+            },
+            {
+                "level": 10,
+                "value": 372
+            },
+            {
+                "level": 11,
+                "value": 409
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 106
+            },
+            {
+                "level": 2,
+                "value": 117
+            },
+            {
+                "level": 3,
+                "value": 128
+            },
+            {
+                "level": 4,
+                "value": 141
+            },
+            {
+                "level": 5,
+                "value": 155
+            },
+            {
+                "level": 6,
+                "value": 170
+            },
+            {
+                "level": 7,
+                "value": 187
+            },
+            {
+                "level": 8,
+                "value": 205
+            },
+            {
+                "level": 9,
+                "value": 226
+            },
+            {
+                "level": 10,
+                "value": 248
+            },
+            {
+                "level": 11,
+                "value": 272
+            }
+        ]
+    }
+  }
 ]
