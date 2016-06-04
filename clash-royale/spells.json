@@ -275,5 +275,72 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Rocket",
+      "ru": "Ракета"
+    },
+    "flavor": {
+      "en": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465027900/rocket.png"
+    },
+    "arena": 3,
+    "type": "Spell",
+    "rarity": "Rare",
+    "statistics": {
+      "cost": 6,
+      "radius": 2,
+      "target": "Air & Ground",
+      "damage": [
+        {
+          "level": 1,
+          "value": 700
+        },
+        {
+          "level": 2,
+          "value": 770
+        },
+        {
+          "level": 3,
+          "value": 847
+        },
+        {
+          "level": 4,
+          "value": 931
+        },
+        {
+          "level": 5,
+          "value": 1022
+        },
+        {
+          "level": 6,
+          "value": 1120
+        },
+        {
+          "level": 7,
+          "value": 1232
+        },
+        {
+          "level": 8,
+          "value": 1351
+        },
+        {
+          "level": 9,
+          "value": 1484
+        },
+        {
+          "level": 10,
+          "value": 1631
+        },
+        {
+          "level": 11,
+          "value": 1792
+        }
+      ]
+    }
   }
 ]
