@@ -1,7 +1,7 @@
 [
   {
     "name": {
-      "en": "Mirror"
+      "en": "Mirror",
       "ru: "Зеркало"
     },
     "flavor": {
@@ -15,8 +15,8 @@
     "type": "Spell",
     "rarity": "Epic",
     "statistics": {
-      cost: 0,
-      effect: {
+      "cost": 0,
+      "effect": {
         "en": "Cost of previous card played + 1",
         "ru": ""
       }
