@@ -322,5 +322,167 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Wizard",
+        "ru": "Маг"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs."
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465017277/wizard.png"
+    },
+    "type": "Troop",
+    "rarity": "Rare",
+    "statistics": {
+        "hitSpeed": 1.7,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 5,
+        "target": "Air & Ground",
+        "cost": 5,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 340
+            },
+            {
+                "level": 2,
+                "value": 374
+            },
+            {
+                "level": 3,
+                "value": 411
+            },
+            {
+                "level": 4,
+                "value": 452
+            },
+            {
+                "level": 5,
+                "value": 496
+            },
+            {
+                "level": 6,
+                "value": 544
+            },
+            {
+                "level": 7,
+                "value": 598
+            },
+            {
+                "level": 8,
+                "value": 656
+            },
+            {
+                "level": 9,
+                "value": 720
+            },
+            {
+                "level": 10,
+                "value": 792
+            },
+            {
+                "level": 11,
+                "value": 870
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 130
+            },
+            {
+                "level": 2,
+                "value": 143
+            },
+            {
+                "level": 3,
+                "value": 157
+            },
+            {
+                "level": 4,
+                "value": 172
+            },
+            {
+                "level": 5,
+                "value": 189
+            },
+            {
+                "level": 6,
+                "value": 208
+            },
+            {
+                "level": 7,
+                "value": 228
+            },
+            {
+                "level": 8,
+                "value": 250
+            },
+            {
+                "level": 9,
+                "value": 275
+            },
+            {
+                "level": 10,
+                "value": 302
+            },
+            {
+                "level": 11,
+                "value": 332
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 77
+            },
+            {
+                "level": 2,
+                "value": 84
+            },
+            {
+                "level": 3,
+                "value": 92
+            },
+            {
+                "level": 4,
+                "value": 101
+            },
+            {
+                "level": 5,
+                "value": 111
+            },
+            {
+                "level": 6,
+                "value": 122
+            },
+            {
+                "level": 7,
+                "value": 134
+            },
+            {
+                "level": 8,
+                "value": 147
+            },
+            {
+                "level": 9,
+                "value": 161
+            },
+            {
+                "level": 10,
+                "value": 177
+            },
+            {
+                "level": 11,
+                "value": 195
+            }
+        ]
+    }
   }
 ]
