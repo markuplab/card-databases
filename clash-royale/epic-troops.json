@@ -1144,5 +1144,131 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Balloon",
+        "ru": "Шар"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage."
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465018948/balloon.png"
+    },
+    "type": "Troop",
+    "rarity": "Epic",
+    "statistics": {
+        "hitSpeed": 3,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Buildings",
+        "cost": 5,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 1050
+            },
+            {
+                "level": 2,
+                "value": 1155
+            },
+            {
+                "level": 3,
+                "value": 1270
+            },
+            {
+                "level": 4,
+                "value": 1396
+            },
+            {
+                "level": 5,
+                "value": 1533
+            },
+            {
+                "level": 6,
+                "value": 1680
+            },
+            {
+                "level": 7,
+                "value": 1848
+            },
+            {
+                "level": 8,
+                "value": 2026
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 600
+            },
+            {
+                "level": 2,
+                "value": 660
+            },
+            {
+                "level": 3,
+                "value": 726
+            },
+            {
+                "level": 4,
+                "value": 798
+            },
+            {
+                "level": 5,
+                "value": 876
+            },
+            {
+                "level": 6,
+                "value": 960
+            },
+            {
+                "level": 7,
+                "value": 1056
+            },
+            {
+                "level": 8,
+                "value": 1158
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 200
+            },
+            {
+                "level": 2,
+                "value": 220
+            },
+            {
+                "level": 3,
+                "value": 242
+            },
+            {
+                "level": 4,
+                "value": 266
+            },
+            {
+                "level": 5,
+                "value": 292
+            },
+            {
+                "level": 6,
+                "value": 320
+            },
+            {
+                "level": 7,
+                "value": 352
+            },
+            {
+                "level": 8,
+                "value": 386
+            }
+        ]
+    }
   }
 ]
