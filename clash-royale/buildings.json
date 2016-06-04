@@ -434,5 +434,121 @@
         }
       ]
     }
+  },
+  {
+    "name": {
+      "en": "Inferno Tower",
+      "ru": "Адская Башня"
+    },
+    "flavor": {
+      "en": "Defensive building, roasts targets for damage that increases over time. Burns through even the biggest and toughest enemies!",
+      "ru": ""
+    },
+    "image": {
+      "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465032156/inferno-tower.png"
+    },
+    "arena": 4,
+    "type": "Building",
+    "rarity": "Rare",
+    "statistics": {
+      "hitSpeed": 0.4,
+      "target": "Air & Ground",
+      "deploy": 1,
+      "lifetime": 40,
+      "cost": 5,
+      "range": 6,
+      "hitpoints": [
+        {
+          "level": 1,
+          "value": 800
+        },
+        {
+          "level": 2,
+          "value": 880
+        },
+        {
+          "level": 3,
+          "value": 968
+        },
+        {
+          "level": 4,
+          "value": 1064
+        },
+        {
+          "level": 5,
+          "value": 1168
+        },
+        {
+          "level": 6,
+          "value": 1280
+        },
+        {
+          "level": 7,
+          "value": 1408
+        },
+        {
+          "level": 8,
+          "value": 1544
+        },
+        {
+          "level": 9,
+          "value": 1696
+        },
+        {
+          "level": 10,
+          "value": 1864
+        },
+        {
+          "level": 11,
+          "value": 2048
+        }
+      ],
+      "damage": [
+        {
+          "level": 1,
+          "value": "20 - 400"
+        },
+        {
+          "level": 2,
+          "value": "22 - 440"
+        },
+        {
+          "level": 3,
+          "value": "24 - 484"
+        },
+        {
+          "level": 4,
+          "value": "26 - 532"
+        },
+        {
+          "level": 5,
+          "value": "29 - 584"
+        },
+        {
+          "level": 6,
+          "value": "32 - 640"
+        },
+        {
+          "level": 7,
+          "value": "35 - 704"
+        },
+        {
+          "level": 8,
+          "value": "38 - 772"
+        },
+        {
+          "level": 9,
+          "value": "42 - 848"
+        },
+        {
+          "level": 10,
+          "value": "46 - 932"
+        },
+        {
+          "level": 11,
+          "value": "51 - 1024"
+        }
+      ]
+    }
   }
 ]
