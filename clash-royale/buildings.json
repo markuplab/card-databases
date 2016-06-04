@@ -10,12 +10,12 @@
     },
     "image": {
       "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465029591/elixir-collector.png"
-    }
+    },
     "arena": 6,
     "type": "Building",
     "rarity": "Rare",
     "statistics": {
-      "productionSpeed" 9.8,
+      "productionSpeed": 9.8,
       "deploy": 1,
       "lifetime": 70,
       "cost": 5,
