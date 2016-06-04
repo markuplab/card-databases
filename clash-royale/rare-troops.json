@@ -646,5 +646,167 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Giant",
+        "ru": "Гигант"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "Slow but durable, only attacks buildings. A real one-man wrecking crew!"
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465017982/giant.png"
+    },
+    "type": "Troop",
+    "rarity": "Rare",
+    "statistics": {
+        "hitSpeed": 1.5,
+        "moveSpeed": "Slow",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Buildings",
+        "cost": 5,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 2000
+            },
+            {
+                "level": 2,
+                "value": 2200
+            },
+            {
+                "level": 3,
+                "value": 2420
+            },
+            {
+                "level": 4,
+                "value": 2660
+            },
+            {
+                "level": 5,
+                "value": 2920
+            },
+            {
+                "level": 6,
+                "value": 3200
+            },
+            {
+                "level": 7,
+                "value": 3520
+            },
+            {
+                "level": 8,
+                "value": 3860
+            },
+            {
+                "level": 9,
+                "value": 4240
+            },
+            {
+                "level": 10,
+                "value": 4660
+            },
+            {
+                "level": 11,
+                "value": 5120
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 126
+            },
+            {
+                "level": 2,
+                "value": 138
+            },
+            {
+                "level": 3,
+                "value": 152
+            },
+            {
+                "level": 4,
+                "value": 167
+            },
+            {
+                "level": 5,
+                "value": 183
+            },
+            {
+                "level": 6,
+                "value": 201
+            },
+            {
+                "level": 7,
+                "value": 221
+            },
+            {
+                "level": 8,
+                "value": 243
+            },
+            {
+                "level": 9,
+                "value": 267
+            },
+            {
+                "level": 10,
+                "value": 293
+            },
+            {
+                "level": 11,
+                "value": 322
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 84
+            },
+            {
+                "level": 2,
+                "value": 92
+            },
+            {
+                "level": 3,
+                "value": 101
+            },
+            {
+                "level": 4,
+                "value": 111
+            },
+            {
+                "level": 5,
+                "value": 122
+            },
+            {
+                "level": 6,
+                "value": 134
+            },
+            {
+                "level": 7,
+                "value": 147
+            },
+            {
+                "level": 8,
+                "value": 162
+            },
+            {
+                "level": 9,
+                "value": 178
+            },
+            {
+                "level": 10,
+                "value": 195
+            },
+            {
+                "level": 11,
+                "value": 214
+            }
+        ]
+    }
   }
 ]
