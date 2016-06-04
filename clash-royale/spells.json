@@ -22,7 +22,7 @@
       }
     }
   },
-{
+  {
     "name": {
       "en": "Zap",
       "ru": "Разряд"
@@ -43,56 +43,56 @@
       "target": "Air & Ground",
       "damage": [
         {
-          "level": 1
-          "value: 80
+          "level": 1,
+          "value": 80
         },
         {
-          "level": 2
-          "value: 88
+          "level": 2,
+          "value": 88
         },
         {
-          "level": 3
-          "value: 96
+          "level": 3,
+          "value": 96
         },
         {
-          "level": 4
-          "value: 106
+          "level": 4,
+          "value": 106
         },
         {
-          "level": 5
-          "value: 116
+          "level": 5,
+          "value": 116
         },
         {
-          "level": 6
-          "value: 128
+          "level": 6,
+          "value": 128
         },
         {
-          "level": 7
-          "value: 140
+          "level": 7,
+          "value": 140
         },
         {
-          "level": 8
-          "value: 154
+          "level": 8,
+          "value": 154
         },
         {
-          "level": 9
-          "value: 169
+          "level": 9,
+          "value": 169
         },
         {
-          "level": 10
-          "value: 186
+          "level": 10,
+          "value": 186
         },
         {
-          "level": 11
-          "value: 204
+          "level": 11,
+          "value": 204
         },
         {
-          "level": 12
-          "value: 224
+          "level": 12,
+          "value": 224
         },
         {
-          "level": 13
-          "value: 247
+          "level": 13,
+          "value": 247
         }
       ]
     }
