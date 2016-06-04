@@ -2,7 +2,7 @@
   {
     "name": {
       "en": "Mirror",
-      "ru: "Зеркало"
+      "ru": "Зеркало"
     },
     "flavor": {
       "en": "Mirrors your last card played for +1 Elixir",
@@ -24,8 +24,8 @@
   },
 {
     "name": {
-      "en": "Zap"
-      "ru: "Разряд"
+      "en": "Zap",
+      "ru": "Разряд"
     },
     "flavor": {
       "en": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
