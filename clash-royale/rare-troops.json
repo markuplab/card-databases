@@ -970,5 +970,167 @@
             }
         ]
     }
+  },
+  {
+    "name": {
+        "en": "Valkyrie",
+        "ru": "Валькирия"
+    },
+    "flavor": {
+        "ru": "",
+        "en": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins."
+    },
+    "image": {
+        "url": "http://res.cloudinary.com/dtbu3bwdj/image/upload/v1465018499/Valkyrie.png"
+    },
+    "type": "Troop",
+    "rarity": "Rare",
+    "statistics": {
+        "hitSpeed": 1.5,
+        "moveSpeed": "Medium",
+        "deployTime": 1,
+        "range": 0,
+        "target": "Ground",
+        "cost": 4,
+        "count": 1,
+        "hitPoints": [
+            {
+                "level": 1,
+                "value": 880
+            },
+            {
+                "level": 2,
+                "value": 968
+            },
+            {
+                "level": 3,
+                "value": 1064
+            },
+            {
+                "level": 4,
+                "value": 1170
+            },
+            {
+                "level": 5,
+                "value": 1284
+            },
+            {
+                "level": 6,
+                "value": 1408
+            },
+            {
+                "level": 7,
+                "value": 1548
+            },
+            {
+                "level": 8,
+                "value": 1698
+            },
+            {
+                "level": 9,
+                "value": 1865
+            },
+            {
+                "level": 10,
+                "value": 2050
+            },
+            {
+                "level": 11,
+                "value": 2252
+            }
+        ],
+        "damage": [
+            {
+                "level": 1,
+                "value": 120
+            },
+            {
+                "level": 2,
+                "value": 132
+            },
+            {
+                "level": 3,
+                "value": 145
+            },
+            {
+                "level": 4,
+                "value": 159
+            },
+            {
+                "level": 5,
+                "value": 175
+            },
+            {
+                "level": 6,
+                "value": 192
+            },
+            {
+                "level": 7,
+                "value": 211
+            },
+            {
+                "level": 8,
+                "value": 231
+            },
+            {
+                "level": 9,
+                "value": 254
+            },
+            {
+                "level": 10,
+                "value": 279
+            },
+            {
+                "level": 11,
+                "value": 307
+            }
+        ],
+        "damagePerSecond": [
+            {
+                "level": 1,
+                "value": 80
+            },
+            {
+                "level": 2,
+                "value": 88
+            },
+            {
+                "level": 3,
+                "value": 96
+            },
+            {
+                "level": 4,
+                "value": 106
+            },
+            {
+                "level": 5,
+                "value": 116
+            },
+            {
+                "level": 6,
+                "value": 128
+            },
+            {
+                "level": 7,
+                "value": 140
+            },
+            {
+                "level": 8,
+                "value": 154
+            },
+            {
+                "level": 9,
+                "value": 169
+            },
+            {
+                "level": 10,
+                "value": 186
+            },
+            {
+                "level": 11,
+                "value": 204
+            }
+        ]
+    }
   }
 ]
